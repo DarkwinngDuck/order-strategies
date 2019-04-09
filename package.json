@@ -1,0 +1,37 @@
+{
+  "name": "order-strategies",
+  "version": "1.0.0",
+  "description": "order-strategies package",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "lint": "eslint ./lib/",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DarkwinngDuck/order-strategies.git"
+  },
+  "keywords": [
+    "tir",
+    "advego"
+  ],
+  "author": "dmitriy.skachko2@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DarkwinngDuck/order-strategies/issues"
+  },
+  "homepage": "https://github.com/DarkwinngDuck/order-strategies#readme",
+  "dependencies": {
+    "json-pointer": "^0.6.0"
+  },
+  "devDependencies": {
+    "eslint": "^5.16.0",
+    "eslint-config-airbnb": "^17.1.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.16.0"
+  }
+}
