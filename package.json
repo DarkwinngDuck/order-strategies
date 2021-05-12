@@ -27,7 +27,7 @@
   "homepage": "https://github.com/DarkwinngDuck/order-strategies#readme",
   "dependencies": {
     "jest": "^24.7.1",
-    "json-pointer": "^0.6.0"
+    "json-pointer": "^0.6.1"
   },
   "devDependencies": {
     "eslint": "^5.16.0",
